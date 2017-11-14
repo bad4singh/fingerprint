@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lederror.jpg",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\drawable\\lederror.jpg"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledok.jpg",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\drawable\\ledok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file.png",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\drawable\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folder.png",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\morphologo.png",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\drawable\\morphologo.png"
+    }
+]

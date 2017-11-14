@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Demo\MorphoSample Lollipop\Tags\MorphoFingerprintSample\MorphoSample\app\src\main\assets"><file name="Log.ini" path="C:\Demo\MorphoSample Lollipop\Tags\MorphoFingerprintSample\MorphoSample\app\src\main\assets\Log.ini"/></source></dataSet><dataSet config="debug"><source path="C:\Demo\MorphoSample Lollipop\Tags\MorphoFingerprintSample\MorphoSample\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.morpho.morphosample"
+    android:versionCode="1"
+    android:versionName="6.14.1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name="com.morpho.morphosample.ConnectionActivity"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.morpho.morphosample.MorphoSample"
+            android:label="@string/app_name">            
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.CaptureActivity"
+            android:label="@string/title_activity_capture" >
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.EnrollActivity"
+            android:label="@string/title_activity_enroll" >
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.VerifyActivity"
+            android:label="@string/title_activity_verify" >
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.FingerPrintActivity"
+            android:label="@string/title_activity_fingerPrint" >
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.SecurityActivity"
+            android:label="@string/title_activity_security" >
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.ProcessActivity"
+            android:label="@string/title_activity_process" >
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.FileChooser"
+            android:label="@string/title_activity_file_chooser"
+            android:parentActivityName="android.app.ListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.ListActivity" />
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.FileChooserActivity"
+            android:label="@string/title_activity_file_chooser"
+            android:parentActivityName="android.app.ListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.ListActivity" />
+        </activity>
+        <activity
+            android:name="com.morpho.morphosample.IdentifyActivity"
+            android:label="@string/title_activity_identify" >
+        </activity>
+    </application>
+
+</manifest>

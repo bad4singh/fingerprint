@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\www\Desktop\MorphoSample\app\src\main\assets"><file name="Log.ini" path="C:\Users\www\Desktop\MorphoSample\app\src\main\assets\Log.ini"/></source><source path="C:\Users\www\Desktop\MorphoSample\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\www\Desktop\MorphoSample\app\src\debug\assets"/></dataSet></merger>

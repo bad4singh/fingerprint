@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_morpho_sample.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_morpho_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_verify.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_file_choice.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_file_choice.xml"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_capture.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_process.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_process.xml"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_file_chooser.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_file_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_identify.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_identify.xml"
+    },
+    {
+        "merged": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_enroll.xml",
+        "source": "C:\\Users\\www\\Desktop\\MorphoSample\\app\\src\\main\\res\\menu\\activity_enroll.xml"
+    }
+]

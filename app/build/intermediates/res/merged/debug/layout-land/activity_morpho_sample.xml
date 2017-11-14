@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MorphoSample" >
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal">
+        <include
+            layout="@layout/activity_morpho_sample_firstpart"/>
+        <View android:background="@android:color/darker_gray" 
+            android:layout_width="2dp" 
+            android:layout_height="fill_parent" />   
+        <include
+	        layout="@layout/activity_morpho_sample_secondpart"/>
+    </LinearLayout>
+
+</RelativeLayout>

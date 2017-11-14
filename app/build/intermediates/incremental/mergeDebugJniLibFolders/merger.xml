@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\www\Desktop\MorphoSample\app\src\main\jniLibs"><file name="armeabi/libMSO100.so" path="C:\Users\www\Desktop\MorphoSample\app\src\main\jniLibs\armeabi\libMSO100.so"/><file name="armeabi/libNativeMorphoSmartSDK_6.14.1.0.so" path="C:\Users\www\Desktop\MorphoSample\app\src\main\jniLibs\armeabi\libNativeMorphoSmartSDK_6.14.1.0.so"/></source></dataSet><dataSet config="debug"><source path="C:\Users\www\Desktop\MorphoSample\app\src\debug\jniLibs"/></dataSet></merger>

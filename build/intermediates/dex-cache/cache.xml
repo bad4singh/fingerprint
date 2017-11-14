@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\www\Desktop\MorphoSample\app\libs\MorphoSmart_SDK_6.14.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b0d203a1ff73d68f9b82e8bb07ecb4a06ccf2ca">
+        <dex dex="C:\Users\www\Desktop\MorphoSample\app\build\intermediates\pre-dexed\debug\MorphoSmart_SDK_6.14.1.0_bc87e27784447223eb2b0646c7ee5feab13050da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lokesh\android\Android\Androidcompletebackup\adt\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\www\Desktop\MorphoSample\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_909ca54609ba3f6f59cc4a991b3d1fe251846c1b.jar" />
+    </item>
+
+</items>
